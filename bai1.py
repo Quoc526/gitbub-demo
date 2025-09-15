@@ -22,6 +22,6 @@ u2 = math.sqrt(b) * y
 u3 = b * y
 
 print(u1," ",u2," ",u3)
-
+//linhhjjffhipfp
 result = 1e1000
 print(result)
