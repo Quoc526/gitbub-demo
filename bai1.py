@@ -9,7 +9,7 @@ b = int(nhapvao2)
 def func(a,b):
     result = 0
 
-    if a == 0: result = b**2
+    if a == 0: result = b**4
     elif a == 1: result = math.sqrt(b)
     elif a == 2: result = b
 
